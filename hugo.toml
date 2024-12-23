@@ -1,0 +1,4 @@
+baseURL = 'https://example2.org/'
+languageCode = 'fr-fr'
+title = 'The thing'
+theme = 'ananke'
